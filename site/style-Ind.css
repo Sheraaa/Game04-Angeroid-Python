@@ -1,0 +1,26 @@
+h1{
+    font-family: monospace;
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    
+}
+h2{
+    font-family: monospace;
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+
+body{
+    background-image:radial-gradient(circle,#d16ba5, #e15a95, #ee467f, #f83065, #fc1846,         #f91b3b, #f61f2f, #f22422, #ed2f2d, #e83837, #e24140, #dc4848);
+    background-size: 100%; 
+   
+   text-align: center;
+
+
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+}
